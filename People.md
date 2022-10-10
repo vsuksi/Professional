@@ -1,0 +1,1 @@
+**When something involving someone else comes up, dump  it in this file. The goal is that e-mails to other people almost write themselves; once you've accumulated things to communicate, an internal order will often present itself.**
