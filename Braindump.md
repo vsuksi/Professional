@@ -4,6 +4,8 @@
 
 Focus more on defining/formulating the problem that you will be solving, so each problem becomes more like a Rosalind-style problem.
 
+Set background to Atom Dark One color!
+
 wb opens a file in Python in binary format for writing
 
 Ctrl-K *direction arrow* opens a pane in the wanted direction!

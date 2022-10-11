@@ -16,16 +16,20 @@ Save your personal Atom sessions last thing every night, this could work as a ri
 Print to pdf saves a pdf picture of the file/webpage while save as pdf produces a searchable pdf document and includes links and other fun stuff.
 
 Atom use guidelines
-Write classifiers with capital letters
-Use "-" with intent, otherwise everything will simply be pushed off to the side
-skriv en egen syntax cheatsheet för pandoc markdown
-only write documments for others in word or powerpoint, everything else in markdown
 make .qmd only files which you want to present to other people
 Notation of forking in scripts? First numbers (1) then if the next step includes alternatives, do 2a and 2b and 2c and so forth. If there are several of the same, 2b for example, it means that they are optional.
+
+To add picture from same directory:
+![alt text](image.png)
+
+To add picture from subdirectory:
+![image info](./subdirectory/image.png)
 
 #Email
 
 Remember to not answer emails too quickly; information exchange between two parties will be more efficient and use up less brain capacity if more material is communicated at a time, so let the material build up a bit.
+
+quarto preview document.qmd
 
 quarto render hello.qmd --to html
 open file (html) in app
