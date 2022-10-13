@@ -5,6 +5,7 @@
 - https://programmathically.com/
 
 
+
 The points closest to the margin support the plane. In multidimensional space, features which don't define the margin can often be left out, as in iterative feature removal.
 
 ![alt text](SVM_basics.png)

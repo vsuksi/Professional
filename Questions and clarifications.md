@@ -2,6 +2,8 @@
 
 **This is a repository for critical information regarding the project at hand. Formulating it into a question allows for a specific viewpoint to be addressed or an implication to be hinted at, for example**
 
+**Is ordinary least squares (OLS) and linear regression the same thing?**
+No, but this is a key question illustrates a critical difference which is best kept in mind throughout data science. OLS is a technique to fit a straight line to data, while linear regression is the general case of fitting a straight line to data.
 
 **Must your libraries be in the same folder?**
 Libraries must be in the same directory or subdirectory when importing directly, for a library in another directory use sys.path or even better, install it in a local virtual environment. The latter has the advantage of reproducibility, since no local path is specified.

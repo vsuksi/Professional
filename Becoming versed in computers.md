@@ -11,6 +11,8 @@ When learning this stuff, remember that people are very confident in THEIR usage
 
 Please stand while working, it will lessen pain, frustration and fatigue resulting in a better day. Moreover, typing feels more effortless when standing up.
 
+Computational markdown simply means a markdown document with a kernel.
+
 A nice thing about markdown is that you can avoid formatting to a larger extent. For example, when uploading a word file to a cloud service, it may be shown differently, which is annoying. Better not format at all before
 
 The Quarto preview is updated as you change the code!

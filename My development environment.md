@@ -38,7 +38,7 @@ When committing to an ordinary file, just put in the date.
 
 When you've completed a project, move it into the professional archives and remove the git file to remove the commit history.
 
-Write your commits in an imperial mood, as git works in the same way. For example: Debug the data cleaning, clean your room
+Write your commits in an imperial mood, as git works in the same way. For example: Debug the data cleaning, clean your room. More generally, having a standard mood for text or file names makes for less ambiguity.
 
 ##Setup
 Atom is the bedrock of my development environment. In Atom, I manage my all of my material which is organized in GitHub repositories. Synchronization with GitHub reduces the amount of switching back and forth between windows. Since it is also possible to run scripts in Atom, even using Conda virtual environments, most of my coding will happen in Atom. Coding is facilitated by the easy installation of various plug-ins in Atom. I also prefer the look and feel of the website, in comparison to
