@@ -2,6 +2,12 @@
 
 **This is a repository for critical information regarding the project at hand. Formulating it into a question allows for a specific viewpoint to be addressed or an implication to be hinted at, for example**
 
+**What is S3 in R?**
+It is the first and simplest object-oriented system in R.
+
+**Is AUC and AUROC the same thing?**
+They are very commonly used interchangeably, although this 
+
 **Is ordinary least squares (OLS) and linear regression the same thing?**
 No, but this is a key question illustrates a critical difference which is best kept in mind throughout data science. OLS is a technique to fit a straight line to data, while linear regression is the general case of fitting a straight line to data.
 
