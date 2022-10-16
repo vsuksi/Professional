@@ -2,11 +2,23 @@
 
 **This is a repository for critical information regarding the project at hand. Formulating it into a question allows for a specific viewpoint to be addressed or an implication to be hinted at, for example**
 
+**How does seed work in code for reproducibility?**
+
+
+**What is a confusion matrix and how does it relate to AUROC?**
+A confusion matrix is a table with the the predicted classes on one axis and the actual classes on the other. In binary classification, this results in a handy matrix of true negative, false negative, false positive and true positive cases.
+The true positive rate (TPR, true positives / true positives + false negatives) then describes the proportion of data points that are correctly classified as positive with regards to all positive cases. Conversely, the false positive rate (NPR,false positives / false positives + true negatives) describes the proportion of negative data points that are incorrectly considered positive.
+
+Using a series of probability thresholds, the TPR is plotted against the FPR. Thus, this ROC (receiver operating characteristic curve) visually represents the false positive rate to false negative rate ratio at different probability thresholds.
+
+There are many possible interpretations of the AUC. My preferred way to look at it is as a summary of if the overall accuracy of the test across probability thresholds.
+
+
 **What is S3 in R?**
 It is the first and simplest object-oriented system in R.
 
 **Is AUC and AUROC the same thing?**
-They are very commonly used interchangeably, although this 
+They are very commonly used interchangeably, although this
 
 **Is ordinary least squares (OLS) and linear regression the same thing?**
 No, but this is a key question illustrates a critical difference which is best kept in mind throughout data science. OLS is a technique to fit a straight line to data, while linear regression is the general case of fitting a straight line to data.

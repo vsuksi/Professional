@@ -13,3 +13,5 @@ Ctrl-W closes panes. This is good to use, since I might have been opening severa
 What to use for data storage? SQL?
 
 Riffomonas project
+
+R documentation is easier to read; it is good introduction to reading documentation
