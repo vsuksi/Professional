@@ -2,6 +2,11 @@
 
 **This is a repository for critical information regarding the project at hand. Formulating it into a question allows for a specific viewpoint to be addressed or an implication to be hinted at, for example**
 
+**Is it possible install packages in an R instant installed via conda, and can this be of use?**
+It is. When I was trying to get R working in a conda environment, I needed a package which only succeeded through the R installation itself. Conda probably doesn't notice this so problems may pop up in resolving environments. Thus, such installation are probably best done last, when you know that everything else is working.
+
+**How is conda "forge" installation different from default?**
+
 **How does seed work in code for reproducibility?**
 
 

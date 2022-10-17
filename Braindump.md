@@ -2,7 +2,6 @@
 
 **The braindump is a repository for the fleeting thoughts that further the project at hand but are better picked up at a later stage.**
 
-
 Focus more on defining/formulating the problem that you will be solving, so each problem becomes more like a Rosalind-style problem.
 
 wb opens a file in Python in binary format for writing
