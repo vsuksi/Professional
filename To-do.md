@@ -4,7 +4,15 @@
 
 **Enter tasks in a rough order of importance!**
 
+Learn how to draw little, simple diagrams in Quarto. Tree diagrams, for example
+      ---
+     /
+|   /
+|---
+|   \
+     \
+      ---
+
 # Slow burn
 - organize "Becoming versed in computers.md", maybe only after you have a lot of entries so that it can be segmented in a reasonable way.
 - do full stack projects!
--

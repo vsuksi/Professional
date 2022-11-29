@@ -2,12 +2,20 @@
 
 **This is a repository for critical information regarding the project at hand. Formulating it into a question allows for a specific viewpoint to be addressed or an implication to be hinted at, for example**
 
+**What is the use case difference between cache and freeze in Quarto?**
+Freeze is for when you have a whole project which is not to be changed at all anymore; one doesn; cache is an option for not executing code 
+
+**What is the difference between ordination and clustering?**
+Both are used in exploratory data analysis for multivariate data. Clustering groups variables into discrete categories, while ordination uses continous axes.
+
 **Is it possible install packages in an R instant installed via conda, and can this be of use?**
 It is. When I was trying to get R working in a conda environment, I needed a package which only succeeded through the R installation itself. Conda probably doesn't notice this so problems may pop up in resolving environments. Thus, such installation are probably best done last, when you know that everything else is working.
 
-**How is conda "forge" installation different from default?**
+**How is a "conda-forge" installation different from default?**
+"Conda-forge" is a community effort to expand the scope of packages to include and maintain packages not included in the default channel maintained by Anaconda, Inc.
 
 **How does seed work in code for reproducibility?**
+Random sampling, for example, is not actually random. Instead, randomization is achieved by a pseudo-random number generator, which can be run with a specified seed for reproducibility.
 
 
 **What is a confusion matrix and how does it relate to AUROC?**

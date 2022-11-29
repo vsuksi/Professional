@@ -5,6 +5,7 @@
 - https://programmathically.com/
 
 
+Try to work at a slower pace, might be faster in the long run if you can avoid mistakes and overwhelming yourself.
 
 The points closest to the margin support the plane. In multidimensional space, features which don't define the margin can often be left out, as in iterative feature removal.
 
