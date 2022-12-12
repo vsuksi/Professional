@@ -2,8 +2,14 @@
 
 **This is a repository for critical information regarding the project at hand. Formulating it into a question allows for a specific viewpoint to be addressed or an implication to be hinted at, for example**
 
+**How can code be folded in Quarto?**
+Use code-fold and code-summary attributes in the chunk or at the start of the document.
+
+**What are the advantages of using non-synthetic features?**
+Interpretability; the original semantics of the variables are conserved.
+
 **What is the use case difference between cache and freeze in Quarto?**
-Freeze is for when you have a whole project which is not to be changed at all anymore; one doesn; cache is an option for not executing code 
+Freeze is for when you have a whole project which is not to be changed at all anymore; one doesn; cache is an option for not executing code
 
 **What is the difference between ordination and clustering?**
 Both are used in exploratory data analysis for multivariate data. Clustering groups variables into discrete categories, while ordination uses continous axes.

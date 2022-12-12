@@ -1,4 +1,3 @@
-
 Feature selection methods:
 Filter methods are independent of any machine learning algorithms, and are selected based on statistical tests for their correlation with the outcome
 
@@ -9,6 +8,10 @@ Embedded methods combine filter and wrapper methods, resulting in feature select
 Embedded feature selection: feature selection is integrated into the training phase so that the best features are generated.
 
 When learning this stuff, remember that people are very confident in THEIR usage of terminology
+
+To install a python package locally, navigate to the folder and do pip install -e.
+
+It does not matter whether you save a conda environment as a .yml, .yaml or .txt; it will be exactly the same
 
 Please stand while working, it will lessen pain, frustration and fatigue resulting in a better day. Moreover, typing feels more effortless when standing up.
 
@@ -33,14 +36,13 @@ You can delete files in the "Downloads" folder; if a file is important, you will
 
 A shell script is a computer program designed to run on the Unix-shell, which is a command line interpreter for Unix-like operating systems, including Linux.
 
-When making contributions to longer snippets of code, it might be worth using commit in the way that it is intended to be used: comment what has been done and why.
-
 .md is the markdown file extension
 
 .qmd is the R markdown/Quarto extension
 
 When using "from ses import sus", one can use sus directly instead of ses.sus
 
+wb opens a file in Python in binary format for writing
 
 # Data science tool updates
 Jupyter Notebook is being replaced by JupyterLab
