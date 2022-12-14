@@ -144,3 +144,15 @@ Beware when installing R through conda; vanilla installs an old version; use con
 When making contributions to longer snippets of code, it might be worth using commit in the way that it is intended to be used: comment what has been done and why.
 
 Your desktop is your repository for temporary files, to be dumped directly after use.
+
+Use double hashtags when commenting subcomments for comments
+
+When using reticulate to work between Python and R, use Knitr as the execution engine. Otherwise python
+
+When using the ipython or another interactive kernel, use Braindump as temporary storage for material
+
+Naming variables with similar functions in code: first specify the commonality, for example "features_test" and "features_train". This is easy to read.
+
+Shift-enter to go backwards in Atom ctrl-F search
+
+ipython doesn't like for-loops, at least in range(100) does only one iteration

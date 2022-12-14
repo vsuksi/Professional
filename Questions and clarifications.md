@@ -32,7 +32,6 @@ Using a series of probability thresholds, the TPR is plotted against the FPR. Th
 
 There are many possible interpretations of the AUC. My preferred way to look at it is as a summary of if the overall accuracy of the test across probability thresholds.
 
-
 **What is S3 in R?**
 It is the first and simplest object-oriented system in R.
 
