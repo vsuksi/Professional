@@ -1,3 +1,6 @@
+
+script = stand-alone program
+
 Feature selection methods:
 Filter methods are independent of any machine learning algorithms, and are selected based on statistical tests for their correlation with the outcome
 

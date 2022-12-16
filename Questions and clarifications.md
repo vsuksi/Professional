@@ -2,6 +2,9 @@
 
 **This is a repository for critical information regarding the project at hand. Formulating it into a question allows for a specific viewpoint to be addressed or an implication to be hinted at, for example**
 
+**How large is the test fraction in k-fold cross validation when k = 5?**
+20 %
+
 **How can code be folded in Quarto?**
 Use code-fold and code-summary attributes in the chunk or at the start of the document.
 
